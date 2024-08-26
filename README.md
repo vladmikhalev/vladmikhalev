@@ -36,7 +36,7 @@
 <p dir="auto">Blanchard - <a href="https://vladmikhalev.github.io/Blanchard/" rel="nofollow">Demo</a> / <a href="https://github.com/vladmikhalev/Blanchard">Code</a> (JavaScript, HTML, CSS, Bootstrap)</p>
 </li>
 <li>
-<p dir="auto">CRM-clients - Программа для ведения учета клиентов - <a href="https://github.com/vladmikhalev/CRM-clients">Info</a> (JavaScript, HTML, CSS, Bootstrap)</p>
+<p dir="auto">CRM-clients - <a href="https://github.com/vladmikhalev/CRM-clients">Info</a> - Программа для ведения учета клиентов (JavaScript, HTML, CSS, Bootstrap)</p>
 </li>
 <li>
 <p dir="auto">Панель учета студентами - <a href="https://vladmikhalev.github.io/control-panel-students/" rel="nofollow">Demo</a> / <a href="https://github.com/vladmikhalev/control-panel-students">Code</a> (JavaScript, HTML, CSS, Bootstrap)</p>
