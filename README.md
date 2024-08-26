@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/static/v1?label&message=Redux&color=black&logo=Redux">
 <img src="https://img.shields.io/static/v1?label&message=NodeJS&color=black&logo=Node.js">
 <img src="https://img.shields.io/static/v1?label&message=HTML&color=black&logo=HTML5">
+</br>
 <img src="https://img.shields.io/static/v1?label&message=CSS&color=black&logo=CSS3">
 <img src="https://img.shields.io/static/v1?label&message=SCSS&color=black&logo=Sass">
 <img src="https://img.shields.io/static/v1?label&message=MongoDB&color=black&logo=MongoDB">
