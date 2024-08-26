@@ -2,8 +2,11 @@
 
 
 ## 🔨Мой стек: ##  
+<p>
 <img src="https://img.shields.io/static/v1?label&message=JavaScript&color=black&logo=javascript">
+<img src="https://img.shields.io/static/v1?label&message=TypeScript&color=black&logo=TypeScript">
 <img src="https://img.shields.io/static/v1?label&message=React&color=black&logo=react">
+<img src="https://img.shields.io/static/v1?label&message=Next.js&color=black&logo=Next.js">
 <img src="https://img.shields.io/static/v1?label&message=Redux&color=black&logo=Redux">
 <img src="https://img.shields.io/static/v1?label&message=NodeJS&color=black&logo=Node.js">
 <img src="https://img.shields.io/static/v1?label&message=HTML&color=black&logo=HTML5">
@@ -13,8 +16,8 @@
 <img src="https://img.shields.io/static/v1?label&message=Webpack&color=black&logo=Webpack">
 <img src="https://img.shields.io/static/v1?label&message=GIT&color=black&logo=git">
 <img src="https://img.shields.io/static/v1?label&message=Figma&color=black&logo=Figma">
-<img src="https://img.shields.io/static/v1?label&message=TypeScript&color=black&logo=TypeScript">
-<img src="https://img.shields.io/static/v1?label&message=Next.js&color=black&logo=Next.js">
+</p>
+
 
 <ul dir="auto">
 <li>
