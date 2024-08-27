@@ -22,7 +22,7 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto">Рomodoro трекер - <a href="https://vladmikhalev.github.io/pomodoro/" rel="nofollow">Demo</a> / <a href="https://github.com/vladmikhalev/pomodoro">Code</a> - Трекер задач с таймером по методу «Помодоро». (React, Redux и Redux-persist, TypeScript, CSS Modules, React-router-dom, Chart.js, React-select)</p>
+<p dir="auto">Рomodoro трекер - <a href="https://vladmikhalev.github.io/pomodoro/" rel="nofollow">Demo</a> / <a href="https://github.com/vladmikhalev/pomodoro">Code</a> - Трекер задач с таймером по методу «Помодоро».<.br>(React, Redux и Redux-persist, TypeScript, CSS Modules, React-router-dom, Chart.js, React-select)</p>
 </li>
 <li>
 <p dir="auto">Blanchard - <a href="https://vladmikhalev.github.io/Blanchard/" rel="nofollow">Demo</a> / <a href="https://github.com/vladmikhalev/Blanchard">Code</a> (JavaScript, HTML, CSS, Bootstrap)</p>
